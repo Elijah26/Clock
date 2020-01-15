@@ -1,0 +1,10 @@
+body {
+	background-color: #565264
+}
+#txt {
+	height: 35cm;
+	width: 27cm;
+	text-align: center;
+	border-style: solid;
+	border-width: 5px;
+}
